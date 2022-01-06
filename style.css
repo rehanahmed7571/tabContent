@@ -1,0 +1,30 @@
+.tab-main{
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 15px #000;
+}
+.tab-main ul{ list-style: none; padding: 10px;}
+.tab-main ul li{ display: inline-block; margin: 0px 20px;}
+
+
+.tab-one{
+    text-align: left;
+
+}
+.tab-one ul{
+    list-style: none;
+}
+.tab-one ul li{
+    display: block ;
+}
+.tab-one ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: tomato;
+}
+#tabTwo{ 
+    display: none;
+}
+#tabThree{
+    display: none;
+}
